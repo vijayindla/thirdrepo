@@ -1,1 +1,8 @@
-hi gjfl
+git init
+git add .
+git commit -m "hi"
+git status
+git log
+git add remote origin server-repo-url
+git push -u origin master
+git clone server-repo-url
